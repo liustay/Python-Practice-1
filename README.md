@@ -1,5 +1,4 @@
 ### python练习 - 01
-***
-- python3
-- django
-- vue
+*
+- 后端 python3+django
+- 前端 vue+element
